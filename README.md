@@ -67,6 +67,6 @@ Supaya bisa maksimal, BMC ini harus dijalankan sama orang-orang yang kompeten. J
 
 Pakai BMC itu kayak punya peta yang nuntun bisnis kamu supaya nggak nyasar! Jadi kamu bisa gampang bikin perkiraan cuan dan tau kebutuhan bisnis dengan jelas. BMC juga bantu kamu fokus ngerjain strategi biar lebih efektif, jadi peluang buat balik modal atau bahkan untung tuh makin gede. Selain itu, kamu juga bisa cek kelemahan dan lihat potensi buat ngembangin bisnis lebih lanjut. Pokoknya, BMC ini bikin rencana bisnis kamu makin mantap dan terarah!
 
-# Lanjut ke bikin product MVP
+# Lanjut ke eksekusi idenya pake teknik MVP
 
 MVP itu intinya bikin eksekusi idenya sederhana gak usah compleks, contoh misal nih bikin kendaran gak usah langsung bikin mobil, bisa mulai dari sepeda, trs dikembangin ke motor sampe ke mobil.

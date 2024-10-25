@@ -70,3 +70,7 @@ Pakai BMC itu kayak punya peta yang nuntun bisnis kamu supaya nggak nyasar! Jadi
 # Lanjut ke eksekusi idenya pake teknik MVP
 
 MVP itu intinya bikin eksekusi idenya sederhana gak usah compleks, contoh misal nih bikin kendaran gak usah langsung bikin mobil, bisa mulai dari sepeda, trs dikembangin ke motor sampe ke mobil.
+
+# Gimana sikap kita pas eksekusi idenya?
+
+Belajar ngerjain cepert ya, yang penting itu **solusinya**, biasanya kalau misal solusinya pake software yang dibikin lewat coding, gak masalah pake tool apapun, yang penting itu tool sesuai sama masalah yang dihadapi.
